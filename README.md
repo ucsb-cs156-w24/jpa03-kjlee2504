@@ -1,4 +1,4 @@
-# STARTER-jpa03
+#jpa03-kjlee2503
 Running at: <https://jpa03-kjlee2504.dokku-10.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
